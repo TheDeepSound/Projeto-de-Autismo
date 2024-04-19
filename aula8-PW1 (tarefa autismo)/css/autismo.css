@@ -1,0 +1,105 @@
+.OqueÉ {
+    text-align: center;
+    text-decoration: underline black;
+    text-shadow: 10px black;
+    font-size: 40px;
+    color: crimson;
+    font-family: cursive;
+    width: auto;
+    height: 0 auto;
+    padding: 0 auto;
+}
+
+body {
+    background-color: rgb(220, 220, 182);
+}
+
+.texto {
+    text-align: center;
+    text-shadow: 10px black;
+    width:1000px;
+    background-color: white;
+    position: relative;
+    padding: 5px;
+    border: 4px solid black;
+    margin: auto;
+    color: darkblue;
+}
+
+.img {
+    background-image:url(https://madureira.oticsrio.com.br/wp-content/uploads/2023/04/espectro-autista.webp);
+    background-repeat: no-repeat;
+    height: 100%;
+}
+
+.img2 {
+    background-image:url(https://thumbs.dreamstime.com/z/o-dia-da-conscientiza%C3%A7%C3%A3o-e-do-orgulho-autismo-mundo-com-enigma-modela-fita-isolada-no-branco-107028375.jpg);
+    background-repeat: no-repeat;
+    background-position: cover;
+    width: none;
+    height: 900px;
+    top: 700px;
+}
+
+.img3 {
+    background-image:url(https://previews.123rf.com/images/sonjachnyj/sonjachnyj1709/sonjachnyj170900076/85459228-pai-e-filho-pequeno-de-m%C3%A3os-dadas-%C3%A0-luz-do-sol-a-m%C3%A3o-do-pai-leva-seu-filho-filho-na-natureza-da.jpg);
+    background-repeat: no-repeat;
+    height: 100%;
+    background-position: center;
+}
+
+.link {
+    width: 100%;
+    text-align: center;
+    font-size: none;
+    text-decoration: none;
+}
+
+.infinito {
+    display: flex;
+    justify-content: center;
+}
+
+.titulo {
+    text-align: center;
+    text-decoration: underline black;
+    text-shadow: 10px black;
+    font-size: 30px;
+    color: deepskyblue;
+    font-family: cursive;
+    width: auto;
+    height: 0 auto;
+    padding: 0 auto
+}
+
+.titulo2 {
+    text-align: center;
+    text-decoration: underline black;
+    text-shadow: 10px black;
+    font-size: 30px;
+    color: deepskyblue;
+    font-family: cursive;
+    width: auto;
+    height: 0 auto;
+    padding: 0 auto
+}
+
+#li {
+    margin: 0px;
+    background-color: blue;
+    color: white;
+    text-decoration: underline 1px white;
+    width: 210px;
+    padding: 0px;
+    border: solid 2px black;
+    border-radius: 10px;
+}
+
+#a {
+    line-break: auto;
+}
+
+.conteiner {
+    display: flex;
+}
+
